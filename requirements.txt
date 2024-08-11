@@ -10,6 +10,7 @@ aiocached
 Kekik_fastapi_cache
 PyYAML
 Jinja2
+python-multipart
 pymongo[srv]
 motor[srv]
 deepdiff
